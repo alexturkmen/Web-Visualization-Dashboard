@@ -1,4 +1,3 @@
-# web-design-challenge
 # Notes
 1. Please find the instructions regarding the coding within each html file.
 
